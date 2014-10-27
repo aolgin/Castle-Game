@@ -1,0 +1,64 @@
+assignment 4
+pair 026
+Olgin, Adam
+aolgin
+Levine, Ben
+levinebe
+
+Log:
+
+1/29
+
+Both Adam and Ben-Morning
+
+Did most of problem 1 in Lab.
+_______________________________________________________________________________________________________________
+2/1
+
+Adam
+Finished problem 1 from the lab, with examples and tests
+
+Brainstormed an idea for the game, started drawing sketch and class diagram.
+
+Started coding for brainstormed idea.
+_______________________________________________________________________________________________________________
+2/2
+
+Ben
+
+Received e-mail from partner about possible game ideas. Agreed on the basic blueprint
+of the game and how it will function.
+---------------------------------------------------------------------------------------------------------------
+Adam
+
+Idea confirmed with partner, most of the details worked out.
+Started coding more and fixing minor things. Managed to get rendering working.
+_______________________________________________________________________________________________________________
+2/3
+
+Ben
+
+Informed that partner worked through a good portion of the code. 
+Reviewed it, and offered several suggestions regarding a left boundary for the knight, 
+as well as a more precise collision detection between the knight and the fireballs. 
+Still contemplating ways to make the fireballs stagger and to make the dragon move along the top of the screen.
+---------------------------------------------------------------------------------------------------------------
+Adam
+
+Revised much of the code, got the basic level of it functional. Planning on improvements.
+Removing bits of unneeded code.
+_______________________________________________________________________________________________________________
+2/4
+
+Ben
+
+he game is running smoothly. There is still a test in GameRunner that needs to be covered by Web-Cat.  
+Possibility of adding a few more extra ideas to the game before final submission.
+---------------------------------------------------------------------------------------------------------------
+Adam
+
+More bug revision. Spoke with partner about potential fixes and applied those we could. Almost finished.
+Once the dragon movement is done and collision detection fixed, the game is good to go.
+Random testing also needs to be resolved. Awaiting e-mail response from Viera on that.
+What is done so far has been submitted to Web-Cat with minor errors.
+_______________________________________________________________________________________________________________

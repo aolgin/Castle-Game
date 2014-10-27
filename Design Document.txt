@@ -1,0 +1,22 @@
+assignment 4
+pair 026
+Olgin, Adam
+aolgin
+Levine, Ben
+levinebe
+
+Design Document
+
+The Class Diagram is enclosed as "p026-diagram.png".
+
+The active objects in the game world are the Knight, the Dragon, and the Fireballs.
+The Dragon moves left and right between two points, hurling fireballs at the player from the background. It only moves on tick.
+	The Fireballs themselves do not have any correlation to the dragon's location, at least at this moment.
+The Fireballs fall vertically on tick and reappear with a random x-coordinate at a set height and begin to fall again once
+	they hit the ground.
+The Knight moves onKey and can only do so left and right. If a fireball comes into a certain distance of him,
+	he loses a life and is put back at the left door. If the knight reaches the right door, five points are awarded to the player,
+	and the knight is transported back to the left side of the game world. The game will end when either
+	100 points are accumulated or the knight loses all three lives.
+
+The score is displayed in the top left, and the amount of remaining lives in the top right. 

@@ -1,0 +1,18 @@
+assignment 4
+pair 026
+Olgin, Adam
+aolgin
+Levine, Ben
+levinebe
+
+User Manual for Knight Helmet
+
+You are a knight trying to save a princess. After enduring blistering winds and scorching deserts,
+you finally reach it to realize there is a dragon guarding you. The dragon is hurling fireballs at you as you try
+to cross an unreasonable amount of bridges to get to the princess. Luckily, your armor is strong enough
+to endure three hits from the dragon's fire. When you get hit, however, you must return to the left tower
+to recover from the damage.
+
+The controls are the left and right arrows keys. Use them to run to the other side of the bridge and dodge incoming fireballs.
+Once you reach the right tower door, you run through to realize you are at the leftside of another bridge.
+When you get to the end of one bridge, you get 5 points. The game ends when your armor breaks, or when you reach 100 points.
